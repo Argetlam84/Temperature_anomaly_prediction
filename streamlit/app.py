@@ -44,6 +44,8 @@ page = st.sidebar.selectbox("Select a Page", ["Main", "Prediction"])
 
 if page == "Main":
     st.title("Main Page")
+    image_url ="https://github.com/user-attachments/assets/200257fb-04b2-4a16-940f-1743812afad3"
+    st.image(image_url, use_column_width=True)
     st.write("This is the main page of the Streamlit app.")
     st.write("""
     ### Time Series Forecasting App
