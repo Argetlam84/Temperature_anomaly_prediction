@@ -1,0 +1,6 @@
+numpy==1.26.1
+matplotlib
+scikit-learn
+streamlit
+prophet
+statsmodels
