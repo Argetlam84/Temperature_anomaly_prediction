@@ -1,3 +1,5 @@
+![fig2_GCH2023_PR_ERA5_surface_temperature_anomaly_annual_2023](https://github.com/user-attachments/assets/200257fb-04b2-4a16-940f-1743812afad3)
+
 # Temperature Anomaly Prediction
 
 This repository contains a Jupyter Notebook for analyzing and forecasting global temperature anomalies using various time series models. The notebook demonstrates step-by-step data processing, exploration, and prediction techniques suitable for both beginners and those with some experience in data science and time series analysis.
